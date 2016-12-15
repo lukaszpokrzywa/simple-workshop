@@ -1,0 +1,8 @@
+#NetBeans project metadata
+/nbproject/
+
+# Backup of php and other files
+*.php~
+*.bak
+
+/vendor/
